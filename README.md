@@ -12,4 +12,4 @@ for Node.js. Don't define any scopes.
 3. Open `apps/node-app/index.js` and behold the squiggle under `write`.
 4. Rename `apps/ts-app/tsconfig.json` to `tsconfig.jsoff` to see the squiggle gone.
 
-EDIT 2021-01-03: The issue has been declared fixed and is expected to land sometime during the 2020.3 era.
+EDIT 2021-01-03: The issue has been declared fixed and the fix is expected to land sometime during the 2020.3 era.
